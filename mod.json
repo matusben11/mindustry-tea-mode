@@ -1,0 +1,8 @@
+name: "tea-mod"
+displayName: "Tea Mod"
+author: "TeaMaker"
+description: "Pridáva čajový systém s ultra rýchlym stavaním! Liquid Tea = 5x stavanie, Black Tea = 15x stavanie!"
+version: "2.0"
+minGameVersion: "146"
+dependencies: []
+hidden: false
